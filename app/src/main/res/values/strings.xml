@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">MapFragmentAdd</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mytext">menu1</string>
+
+
+    <string name="location_updated_message">Location Updated</string>
+    <string name="start_updates">Start Update</string>
+    <string name="stop_updates">Stop Update</string>
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="last_update_time_label">Last Updated at</string>
+
+    <string-array name="test">
+        <item>{"name":"Mango",
+"h1":"Spacing",
+"d1":"Generally@spacing@between@plants@varies@from@variety@to@variety.@For@less@growth@areas@(dry@zones)@@@a@spacing@of@10@m@*@10@m@is@preferred@@@whereas@in@regions@with@heavy@rainfall@and@rich@soils@@@a@spacing@of@12@m@12@m@is@preferred.@But@for@hybrid@mangoes@can@be@spaced@of@5@m@*@5@m.",
+"h2":"Climate@Requirement",
+"d2":"Mangoes@can@be@cultivated@in@both@tropical@and@subtropical@environment.@Having@good@rainfall@and@dry@summer@are@best@suitable@condition@to@grow@mango."}</item>
+    </string-array>
+
+    <string-array name="fruitsTreeNames">
+        <item>
+            {"name":"Mango",
+"h1":"Spacing",
+"d1":"Generally@spacing@between@plants@varies@from@variety@to@variety.@For@less@growth@areas@(dry@zones)@@@a@spacing@of@10@m@*@10@m@is@preferred@@@whereas@in@regions@with@heavy@rainfall@and@rich@soils@@@a@spacing@of@12@m@12@m@is@preferred.@But@for@hybrid@mangoes@can@be@spaced@of@5@m@*@5@m.",
+"h2":"Climate@Requirement",
+"d2":"Mangoes@can@be@cultivated@in@both@tropical@and@subtropical@environment.@Having@good@rainfall@and@dry@summer@are@best@suitable@condition@to@grow@mango."}
+        </item>
+        <item>{"name":"Lychee",
+"h1":"Spacing",
+"d1":"In@old@orchards@lychee@trees@were@planted@10-12@m@apart@both@ways@@@i.e.@in@rows@and@between@plants@in@rows.@The@spacing@of@10@m@is@found@to@be@adequate@in@areas@where@the@soil@is@deep@loam@and@fertile@and@when@necessary@care@is@taken@during@the@initial@stage@of@cultivation.@In@other@areas@7-8@m@distance@was@found@to@be@sufficient.@At@present@high@density@plantation@has@also@started.@In@the@case@of@high@density@planting@the@spacing@is@4@m@x@4@m.",
+"h2":"Planting@season",
+"d2":"The@planting@of@lychee@is@generally@done@during@June-July@@@i.e.@during@the@rainy@season@@@but@the@best@planting@time@is@May-June@when@the@weather@is@humid@but@not@too@wet@or@too@dry.@Planting@may@also@be@done@after@the@rainy@season@@@i.e.@August-September@@@but@regular@irrigation@is@required@for@better@establishment@of@the@orchard."}
+        </item>
+        <item>
+            {"name":"Banana",
+"h1":"Spacing",
+"d1":"Spacing@between@two@trees@for@banana@is@2@m@(from@column@to@column)@and@2.5@m@(from@row@to@row)",
+"h2":"Planting@Season",
+"d2":"Tissue@culture@banana@plant@can@be@planted@throughout@the@year@except@in@the@case@of@low@and@high@temperatures."}
+        </item>
+    </string-array>
+
+    <string-array name="vegetablesTreeNames">
+        <item>{{"name":"Capsicum",
+"h1":"Spacing",
+"d1":"Capsicum@should@be@transplanted@in@rows@at@a@distance@of@30@cm@to@55@cm.@Plants@spaced@at@45@to@50@cm@and@row@spaced@at@90@cm@are@also@fairly@common.",
+"h2":"Planting@Season",
+"d2":"It@all@depends@on@he@methods@of@cultivation.@If@it@is@a@rainfed@crop@@@one@should@ready@just@before@monsoon.@Generally@@@in@South@Asian@regions@@@capsicum@crop@is@sown@August@for@the@autumn-winter@crop@and@in@November@for@the@spring-summer@crop."}
+        </item>
+        <item>{"name":"Cauliflower",
+"h1":"Spacing",
+"d1":"45@cm*45@cm@spacing@is@maintained@for@early@crop@where@in@late@crop@60@cm*60@cm@is@maintained.",
+"h2":"Climate@Requirement",
+"d2":"Cauliflower@prefers@full@sun@but@will@grow@in@light@shade@as@well.@The@temperature@range@of@15@degree@to@20@degree@Celsius@is@required@for@its@optimum@growth."}
+        </item>
+        <item>{"name":"Potato",
+"h1":"Spacing",
+"d1":"In@hilly@areas@where@furrow@method@is@followed@@@a@spacing@of@60@cm@*@30@cm@is@maintained@where@as@I@plain@@@ridge@plantation@method@is@followed@and@a@spacing@of@30@cm@is@maintained.@Ridge@distance@is@kept@as@45@cm-60@cm.",
+"h2":"Climate@Requirement",
+"d2":"Generally@potato@is@a@cool@season@crop@and@tolerates@frost@moderately.@Ideal@temperature@for@its@initial@growth@is@25@degree@Celsius@but@potato@tuber@growth@reaches@maximum@at@21@degree@Celsius@and@decreases@with@temperature@increase."}
+        </item>
+    </string-array>
+
+    <string-array name="woodTreeNames">
+        <item>{"name":"Mahogany",
+"h1":"Height@and@width",
+"d1":"Mahogany@trees@produce@broad@@@spreading@growth@with@foliage@that@can@span@50@feet@in@width@and@75@feet@in@height@at@maturity.",
+"h2":"Spacing",
+"d2":"Plant@the@tree@at@least@15@feet@(4.57@m)@away@from@any@house@or@large@structure.@It@should@also@be@8@feet@(2.43@m)@or@more@away@from@sidewalks@@@streets@@@and@driveways.It@is@best@to@plant@multiple@mahogany@trees@at@least@15@feet@(4.57@m)@apart."}
+        </item>
+        <item>{"name":"Teak(segun)",
+"h1":"Spacing",
+"d1":"Teak@can@be@planted@at@2m@*@2m@@@2.5m@*@2.5m@or@3m@*@3m@espacement.@It@can@also@be@raised@with@agricultural@crops@spacing@at@4m@*@4m@or@5m@*@1m.",
+"h2":"Climate@Requirement",
+"d2":"Teak@prefers@moist@@@warm@and@tropical@climate.@Maximum@39-45@degree@and@minimum@13-17@degree@is@favourable@for@teak@tree.@It@grows@well@in@rainfall@zone@200-2500@mm."}
+        </item>
+        <item>{{"name":"Neem",
+"h1":"Spacing",
+"d1":"For@dry@areas@neem@seedlings@25-30@cm@height@should@be@transplanted@in@pits@30@cubic@centimeters@at@a@distance@of@3@m@*@3@m.@Otherwise@seedlings@are@transplanted@when@they@are@8-10@cm@tall@with@a@tap@root@of@15@cm@long.",
+"h2":"Planting@Season",
+"d2":"At@the@beginning@of@rainy@season@is@the@best@time@for@planting@neem@seedlings."}
+        </item>
+    </string-array>
+
+</resources>

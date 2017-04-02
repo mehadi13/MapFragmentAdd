@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="fruits">
+        <item>10</item>
+        <item>8</item>
+        <item>2</item>
+    </integer-array>
+
+    <integer-array name="vegetables">
+        <item>40</item>
+        <item>50</item>
+        <item>50</item>
+    </integer-array>
+
+    <integer-array name="wood">
+        <item>15</item>
+        <item>4</item>
+        <item>3</item>
+    </integer-array>
+</resources>
